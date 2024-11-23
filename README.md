@@ -18,5 +18,5 @@ list the manipulations and explain why i have them
 
 # Analysis:
 
-**Question 1:**
+
 
