@@ -6,13 +6,16 @@ This data set was obtained from the US Data Government Website, and the publishe
 <img width="570" alt="Screenshot 2024-11-21 at 2 46 10 PM" src="https://github.com/user-attachments/assets/6646a8e4-7805-41cf-9630-ea3374418e5b">
 
 # Question:
-**How are accidents caused by alcohol and illegal drugs expected to trend in 2024?**
+**What are the forecasted percentages of collisions attributed to alcohol and to illegal drugs separately for the years 2025 and 2026?**
 
-Importance:
+Importance: Forecasting the percentages of collisions caused by alcohol and illegal drugs for 2024 and 2025 provides valuable insights into the effectiveness of current interventions targeting impaired driving. It also serves as a key indicator of whether past efforts have been successful or if adjustments to strategies are needed.
 
 
 # Manipulations:
- Manipulations:
+ 1. I filtered out data before 2016 because crashes caused by illegal drugs were not recorded during that time. Including 0% for illegal drug-related crashes prior to 2016 would innapropriately skew the results.
+
+ 2. 
+
 list the manipulations and explain why i have them
 
 
