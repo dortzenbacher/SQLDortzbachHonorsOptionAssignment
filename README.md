@@ -13,7 +13,7 @@ Importance: Forecasting the percentages of collisions caused by alcohol and ille
 
 
 # Manipulations:
-1. I created and used calculated fields to determine the percentages of collisions caused by these two types of impairing substances. I chose to graph the data in percentage form rather than total counts because overall collisions dropped significantly during the COVID-19 pandemic, and my focus was on analyzing how the causes of collisions were expected to shift, rather than the total number of collisions for each cause. 
+1. I created and used calculated fields to determine the percentages of collisions caused by these two types of impairing substances. I chose to graph the data in percentage form rather than total counts because overall collisions dropped significantly during the COVID-19 pandemic due to fewer cars being on the road, and my focus was on analyzing how the causes of collisions were expected to shift, rather than the total number of collisions for each cause. 
 
 2. I filtered out data before 2016 because crashes caused by illegal drugs were not recorded during that time. Including 0% for illegal drug-related crashes prior to 2016 would innapropriately skew the results.
 
